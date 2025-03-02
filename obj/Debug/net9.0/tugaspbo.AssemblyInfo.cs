@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tugaspbo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d20c0bd1545edc498905b426f8738072b112687")]
 [assembly: System.Reflection.AssemblyProductAttribute("tugaspbo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tugaspbo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
